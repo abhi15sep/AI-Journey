@@ -1,7 +1,7 @@
 # AI-Journey
 Starting a journey to learn AI and machine learning
 
-https://deeplearningcourses.com/course_order
+https://deeplearningcourses.com/course_order (https://forum.lazyprogrammer.me/)
 1. Deep Learning Prerequisites: The Numpy Stack in Python (V2+): https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-stack-in-python (In-Progress)
 2. Tensorflow 2.0: Deep Learning and Artificial Intelligence
 3. PyTorch: Deep Learning and Artificial Intelligence
