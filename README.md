@@ -27,3 +27,5 @@ https://deeplearningcourses.com/course_order
 23. Recommender Systems and Deep Learning in Python
 24. Machine Learning and AI: Support Vector Machines in Python
 25. Cutting-Edge AI: Deep Reinforcement Learning in Python
+
+https://lazyprogrammer.me/machine-learning-data-science/
