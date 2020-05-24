@@ -3,6 +3,10 @@ Starting a journey to learn AI and machine learning
 
 https://deeplearningcourses.com/course_order (https://forum.lazyprogrammer.me/)
 1. Deep Learning Prerequisites: The Numpy Stack in Python (V2+): https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-stack-in-python (In-Progress)
+  a) Numpy Tutorial.ipynb - https://colab.research.google.com/drive/1VdLyfnop7Tt4wx4BmS6WHSSQg3n5wXrX
+  b) Matplotlib Tutorial.ipynb - https://colab.research.google.com/drive/1XPIvVx5lJIzJNJYBNsjX_WYBbtnfDG58
+  c) Pandas Tutorial.ipynb - https://colab.research.google.com/drive/1tf7dD2UuGo5Fx5qc16pcF05vZMOKefbE
+  d) Scipy Tutorial.ipynb - https://colab.research.google.com/drive/1bpjWwc0MDq0pHkounxpeI9TpiEzsNO_e
 2. Tensorflow 2.0: Deep Learning and Artificial Intelligence
 3. PyTorch: Deep Learning and Artificial Intelligence
 4. Deep Learning Prerequisites: Linear Regression in Python
